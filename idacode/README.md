@@ -51,3 +51,11 @@ IDACode doesn't support host to VM communication unless the VM uses a shared vol
 
 - Enhanced UX
 - Added configuration checks
+
+### 0.1.3
+
+- Added support for Python 2
+
+### 0.1.4
+
+- Added "Save on execute" support in settings
